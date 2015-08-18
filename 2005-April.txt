@@ -1,0 +1,16 @@
+From dzchart at gmail.com  Sat Apr  9 11:35:22 2005
+From: dzchart at gmail.com (Thomas Mueller)
+Date: Sat, 9 Apr 2005 11:35:22 +0200
+Subject: [Dzchart-announce] pasdoc documentation updated
+Message-ID: <816b3cf905040902353e920522@mail.gmail.com>
+
+Hi,
+
+I have updated the pasdoc generated documentation using the latest
+pasdoc version and this time I also generated the unit and class
+hierrarchy graphs. See http://dzchart.berlios.de/docs/ for the result.
+
+regards
+twm
+
+
